@@ -1,9 +1,9 @@
 # MultipleRegression_NSE_stocks
 ###### BankStocks vs NIFTY50 index
 
-          In this study, I try various sector of stocks and their influence on NIFTY50 index movement.
+          In this study, I attempt to use various sector stocks and their influence on NIFTY50 index movement.
           For a better optimization, model has been iterated over many different configurations.
-          Main focus will be on how some stocks are important to monitor.
+          Main focus is on how some stocks are important to decide the market movements.
           
 ## Correlation plot between stocks          
 ![pairpanel_bank](https://cloud.githubusercontent.com/assets/16385390/19884402/ede0ff30-a019-11e6-9a24-c533693711e4.png)
